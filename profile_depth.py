@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue Nov 29 10:27:13 2016
-calculate the profile depth 
+calculate the number of profiles in each  depth 
 @author: yifan
 """
 import numpy as np
