@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 Created on Fri Jan 20 11:59:50 2017
-
-@author: yifan# -*- coding: utf-8 -*-
+plot the turtle ILD and the wind of ocean surface to grt how influenced can the wind do for the turtle ILD
+@author: yifan
 """
 
 
@@ -132,5 +132,5 @@ for i in range(4):
 fig.text(0.5, 0.04, '2013', ha='center', va='center', fontsize=14)#  0.5 ,0.04 represent the  plotting scale of x_axis and y_axis
 fig.text(0.06, 0.5, 'Isothermal Layer Depth(m)', ha='center', va='center',color='b', rotation='vertical',fontsize=12)
 fig.text(0.98, 0.5, 'Wind Speed(m/s)', ha='center', va='center', rotation='vertical',color='m',fontsize=12)
-plt.savefig('obsVSweather.png',dpi=200)
+plt.savefig('obsVSweatherwind.png',dpi=200)
 plt.show()
