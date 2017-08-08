@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue Jan 24 15:18:57 2017
-draw the good positions of turtle and 70m contour line 
+draw the position of turtle and ship 100m contour line 
 @author: yifan
 """
 from matplotlib.mlab import griddata
